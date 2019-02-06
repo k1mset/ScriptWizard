@@ -1,0 +1,16 @@
+C:\Users\Richard Fesenbek\documents\visual studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\Script Wizard.vbproj.GenerateResource.Cache
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\bin\Debug\RC Spell Wizard.exe
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\bin\Debug\RC Spell Wizard.pdb
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\bin\Debug\RC Spell Wizard.xml
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC_Spell_Wizard.Generate.resources
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC_Spell_Wizard.Resources.resources
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC Spell Wizard.exe
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC Spell Wizard.xml
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC Spell Wizard.pdb
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC_Spell_Wizard.frmEditor.resources
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC_Spell_Wizard.frmAbt.resources
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\bin\Debug\RC Spell Wizard.exe.manifest
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\bin\Debug\RC Spell Wizard.application
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC Spell Wizard.TrustInfo.xml
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC Spell Wizard.exe.manifest
+C:\Users\Richard Fesenbek\Documents\Visual Studio 2010\Projects\Script Wizard\Script Wizard\obj\x86\Debug\RC Spell Wizard.application
